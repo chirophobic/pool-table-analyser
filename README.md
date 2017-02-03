@@ -7,9 +7,11 @@ and determine the best move/shot to make.
 
 - [Go](https://golang.org/)
 
-## Running the application
-- //TODO
-
+## Installation
+- Ensure that `go` has been successfully installed
+- Execute `go get` from the root of the application to
+  load in all dependencies
+- Build the application by running the `make`
 
 ## Board State File
 
