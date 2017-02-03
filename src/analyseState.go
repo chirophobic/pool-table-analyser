@@ -61,7 +61,7 @@ func run(stateFile string) {
 		fmt.Printf("X: %v, Y: %v\n", hole.x, hole.y)
 	}
 
-	stateToImage(state, "output-image")
+	stateToImage(state, "image-output/output-image")
 }
 
 func loadStateFromFile(filename string) TableState {
