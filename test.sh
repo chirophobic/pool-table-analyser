@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./analyseState res/board-state/one two
+./bin/analyseState res/board-state/one two
